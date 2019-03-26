@@ -1,0 +1,290 @@
+metr	
+kilometr	
+centimetr	
+milimetr	
+mile	
+furlong	
+engineer's chain	
+chain 
+Gunter's chain	
+link	
+rod 
+pole 
+perch	
+fathom	
+yard	
+foot 
+stopa	
+inch 
+palec	
+mil
+milli-inch	
+námoøní míle	
+imperial nautical mile	
+zemìpisná míle	
+astronomická jednotka	
+svìtelnı rok	
+parsek	
+fermi	
+angstöm	jednotka	
+míle poštovní 	
+prut inenırskı 	
+rakouskı sáh 
+loket 	
+rakouská stopa 	
+rakouská pìst 	
+rakouskı palec 	
+rakouská èárka	
+míle èeská	
+hon	
+provazec viniènı	
+provazec rybáøskı	
+prut	
+látro	
+sáh staroèeskı	
+loket praskı	
+píï	
+ètvr	
+dlaò	
+prst	
+zrno jeèné	
+látro jáchymovské	
+loket èeskı	
+loket slezskı		
+provazec zemskı 	
+prut 	
+stopa èeská	
+stopa moravská	
+stopa slezská	
+mille passus 
+øímská míle	
+stadium 	
+actus 
+passus
+øímskı dvojkrok	
+gradus 
+cubitus
+øímskı loket	
+pes
+øímská stopa	
+palma
+øímská dlaò	
+digitus 
+øímskı palec	
+dolichos 	
+diaulos 
+stadion 	
+plethron 	
+akaina 
+orgyiá 
+øeckı sáh	
+xylon 	
+bema 	
+péchya 
+øeckı loket	
+pygon 	
+pús 
+øecká stopa	
+spithame 
+øecká píï	
+dichas 
+palaisté 
+øecká dlaò	
+condylos 	
+daktylos 
+øeckı palec	
+ater 	
+chet 
+khet 	
+meh 
+remen 	
+shep	
+zebo 	
+amma 	
+zeret 
+tophah 
+esba 	
+pica 	
+agate 	
+point 	
+pounce 	
+pied 
+aune 	
+toise 	
+lieue postale 	
+versta 	
+saeò 	
+aršin 
+fu 	
+veršok	
+djujm 	
+sotka 	
+èerta 	
+toèka 	
+ri 	
+ken 	
+shaku 	
+sun 	
+cubit 	
+vara 
+Avogadrova konstanta
+Bohrùv magneton
+Bohrùv polomìr
+Boltzmannova konstanta
+dipólovı moment
+druhá vyzaøovací konstanta
+ekvivalent energie klidové hmotnosti 
+elementární náboj elektronu
+Faradayova konstanta
+gradient elektrického pole
+gravitaèní konstanta
+hartree
+hmotnostní jednotka
+hustota pravdìpodobnosti
+jadernı magneton
+jiffy
+klidová hmotnost elektronu
+klidová hmotnost neutronu
+klidová hmotnost protonu
+konstanta "há-trans"
+konstanta jemné struktury
+konstanta Wienova zákona
+kvadrupólovı moment
+Loschmidtova konstanta
+molární objem ideálního plynu 
+objem a03
+permeabilita vakua
+permitivita vakua
+pí
+Planckova konstanta
+plynová molová konstanta
+První vyzaøovací konstanta
+Rydbergova konstanta
+rychlost svìtla ve vakuu
+solární konstanta
+specifickı náboj elektronu
+stark
+Stefan-Boltzmannova konstanta
+tíhové zrychlení 
+zeeman
+1,660 565 5 E-27 kg
+6,022 045 E23 mol-1
+9,274 078 E-24 J.K-1
+5,291 770 6 E-11 m
+1,380 662 E-23 J.K-1
+8,478 418 E-30 C.m
+1,438 769 E-12 m.K
+8,987 555 E16 J.kg-1
+1,602 189 2 E-19 C
+9,648 456 E4 C.mol-1
+9,717 4 E21 V.m2
+6,672E-11 N.m2.kg-2
+4,359 814 E-18 J
+1,660 565 5 E-27 kg
+6,748 340 E30 m-3
+5,050 824 E-27 J.T-1
+2,418 885 E-17 s
+9,109 534 E-31 kg
+1,674 954 3 E-27 kg
+1,672 648 5 E-27 kg
+1,0545587 E-34 J.s
+7,2973506 E-3
+2,89779 E-3 m.K
+4,4866 E-40 C.m2
+2,6873 E25 m-3
+22,41383 E-3 m3.mol-1
+1,481846 E-31 m3
+4 E-7 N.A-2
+8,854 187 818 E-12 C2N-1m-2
+3,141 592 654
+6,626 176 E-34 J.s
+8,314 41 J.mol-1K-1
+3,741 774 9 W.m-2
+1,097 373 177 E7 m-1
+2,997 924 58 E8 m.s-1
+1327 W.m-2
+1,758 804 7 E11 C.kg-1
+5,142 257 E11 V.m-1
+5,670 32 E-8 W.m-2K-4
+9,806 65 m.s-1
+2,350 54 E5 T	
+1,6605655 
+6,022045 
+9,274078 
+5,2917706 
+1,380662 
+8,478418 
+1,438769 
+8,987555 
+1,6021892 
+9,648456 
+9,7174 
+6,672
+4,359814 
+1,6605655 
+6,748340 
+5,050824 
+2,418885 
+9,109534 
+1,6749543 
+1,6726485 
+1,0545587 
+7,2973506
+2,89779 
+4,4866 
+2,6873 
+22,41383 
+1,481846 
+8,854187818 
+3,141592654
+6,626176 
+8,31441 
+3,7417749 
+1,097373177 
+2,99792458 
+1327 
+1,7588047
+5,142257 
+5,67032 
+9,80665 
+2,35054 	
+1.6605655 
+6.022045 
+9.274078 
+5.2917706 
+1.380662 
+8.478418 
+1.438769 
+8.987555 
+1.6021892 
+9.648456 
+9.7174 
+6.672
+4.359814 
+1.6605655 
+6.748340 
+5.050824 
+2.418885 
+9.109534 
+1.6749543 
+1.6726485 
+1.0545587 
+7.2973506
+2.89779 
+4.4866 
+2.6873 
+22.41383 
+1.481846 
+8.854187818 
+3.141592654
+6.626176 
+8.31441 
+3.7417749 
+1.097373177 
+2.99792458 
+1327 
+1.7588047
+5.142257 
+5.67032 
+9.80665 
+2.35054 

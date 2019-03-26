@@ -1,0 +1,8 @@
+
+Every date from 1960 through to and including 1980 in UK English day/month/year format.
+
+Use word pad to replace / with - or . if required.
+
+Compiled by Simon
+
+simon@fuckyou.co.uk
