@@ -1,0 +1,203 @@
+adenine 
+adenosine deaminase deficiency
+ADA 
+adenovirus 
+Alagille syndrome 
+allele 
+amino acids 
+animal model 
+antibody 
+antisense 
+apoptosis 
+ataxia-telangiectasia 
+Autoimmune Lymphoproliferative syndrome 
+ALPS 
+autosomal dominant 
+autosome 
+bacteria 
+bacterial artificial chromosome 
+BAC 
+base pair 
+birth defect 
+bone marrow transplantation 
+BRCA1
+BRCA2 
+cancer 
+candidate gene 
+carcinoma 
+carrier 
+cDNA library 
+cell 
+centimorgan 
+centromere 
+chromosome 
+cloning 
+codon 
+congenital 
+contig 
+craniosynostosis 
+cystic fibrosis 
+cytogenetic map 
+cytosine 
+deletion 
+deoxyribonucleic acid 
+DNA 
+diabetes mellitus 
+diploid 
+DNA replication 
+DNA sequencing 
+dominant 
+double helix 
+duplication 
+electrophoresis 
+Ellis - van Creveld syndrome 
+enzyme 
+exon 
+familial Mediterranean fever 
+fibroblasts 
+fluorescence in situ hybridization 
+FISH 
+Fragile X syndrome 
+gene 
+gene amplification 
+gene expression 
+gene mapping 
+gene pool 
+gene therapy 
+gene transfer 
+genetic code 
+ATGC 
+genetic counseling 
+genetic map 
+genetic marker 
+genetic screening 
+genome 
+genotype 
+germ line 
+guanine 
+haploid 
+haploinsufficiency 
+hematopoietic stem cell 
+hemophilia 
+heterozygous 
+highly conserved sequence 
+Hirschsprung's disease 
+holoprosencephaly 
+homologous recombination 
+homozygous 
+human artificial chromosome 
+HAC 
+Human Genome Project 
+human immunodeficiency virus
+HIV
+acquired immunodeficiency syndrome
+AIDS 
+Huntington's disease 
+hybridization 
+immunotherapy 
+in situ hybridization 
+inherited 
+insertion 
+intellectual property rights 
+intron 
+karyotype 
+knockout 
+leukemia 
+library 
+linkage 
+locus 
+LOD score 
+lymphocyte 
+malformation 
+mapping 
+marker 
+melanoma 
+Mendel 
+Johann 
+Gregor 
+Mendelian inheritance 
+messenger 
+RNA 
+mRNA 
+metaphase 
+microarray technology 
+microsatellite 
+mitochondrial DNA 
+monosomy 
+mouse model 
+multiple endocrine neoplasia
+type 1 (MEN1) 
+mutation 
+neurofibromatosis 
+Niemann-Pick disease 
+type C (NPC) 
+non-coding DNA 
+non-directiveness 
+nonsense mutation 
+Northern blot 
+nucleotide 
+nucleus 
+oligo 
+oncogene 
+oncovirus 
+p53 
+Parkinson's disease 
+patent 
+pedigree 
+peptide 
+phenotype 
+physical map 
+polydactyly 
+polymerase chain reaction 
+PCR 
+polymorphism 
+positional cloning 
+primary immunodeficiency 
+primer 
+probe 
+promoter 
+pronucleus 
+prostate cancer 
+protease 
+protein 
+pseudogene 
+recessive 
+recombinant DNA 
+repressor 
+restriction enzymes 
+restriction fragment length polymorphism
+RFLP 
+retrovirus 
+ribonucleic acid 
+RNA 
+ribosome 
+risk communication 
+sequence-tagged site 
+STS 
+severe combined immunodeficiency 
+SCID 
+sex chromosome 
+sex-linked 
+shotgun sequencing 
+sickle cell disease 
+single nucleotide polymorphisms 
+SNPs 
+somatic cells 
+Southern blot 
+spectral karyotype 
+SKY 
+substitution 
+suicide gene 
+syndrome 
+technology transfer 
+thymine 
+transgenic 
+translocation 
+trisomy 
+tumor suppressor gene 
+uracil 
+vector 
+Western blot 
+Wolfram syndrome 
+yeast artificial chromosome 
+YAC 

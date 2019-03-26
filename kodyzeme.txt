@@ -1,0 +1,504 @@
+
+AD
+Andorra
+AE
+Spojené arabské emiráty
+AF
+Afghánistán
+AG
+Antigua a Barbuda
+AI
+Anguilla
+AL
+Albánie
+AM
+Arménie
+AN
+Nizozemské Antily
+AO
+Angola
+AQ
+Antarktida
+AR
+Argentina
+AS
+Americká Samoa
+AT
+Rakousko
+AU
+Austrálie
+AW
+Aruba
+AZ
+Ázerbájdžán
+BA
+Bosna a Hercegovina
+BB
+Barbados
+BD
+Bangladéš
+BE
+Belgie
+BF
+Burkina Faso
+BG
+Bulharsko
+BH
+Bahrajn
+BI
+Burundi
+BJ
+Benin
+BM
+Bermudy
+BN
+Brunej Darussalam
+BO
+Bolívie
+BQ
+Britské Antarkt.terit.
+BR
+Brazílie
+BS
+Bahamy
+BT
+Bhútán
+BV
+Bouvetùv ostrov
+BW
+Botswana
+BY
+Bìlorusko
+BZ
+Belize
+CA
+Kanada
+CC
+Kokosové ostrovy
+CF
+Støedoafrická republika
+CG
+Kongo
+CH
+Švýcarsko
+CI
+Pobøeží Slonoviny
+CK
+Cookovy ostrovy
+CL
+Chile
+CM
+Kamerun
+CN
+Èína
+CO
+Kolumbie
+CR
+Kostarika
+CT
+Canton a Enderbury
+CU
+Kuba
+CV
+Kapverdy
+CX
+Vánoèní ostrov
+CY
+Kypr
+CZ
+Èeská republika
+DE
+Nìmecko
+DJ
+Džibutsko
+DK
+Dánsko
+DM
+Dominika
+DO
+Dominikánská republika
+DZ
+Alžírsko
+EC
+Ekvádor
+EE
+Estonsko
+EG
+Egypt
+EH
+Západní Sahara
+ER
+Eritrea
+ES
+Španìlsko
+ET
+Etiopie
+FI
+Finsko
+FJ
+Fidži
+FK
+Falklandy 
+Malviny
+FM
+Mikronésie
+FO
+Faerské ostrovy
+FR
+Francie
+FX
+Francie metropolitní
+GA
+Gabon
+GB
+Velká Británie
+GD
+Grenada
+GE
+Gruzie
+GF
+Francouzská Guyana
+GH
+Ghana
+GI
+Gibraltar
+GL
+Grónsko
+GM
+Gambie
+GN
+Guinea
+GP
+Guadeloupe
+GQ
+Rovníková Guinea
+GR
+Øecko
+GS
+J.Georgie a J.Sandw.os.
+GT
+Guatemala
+GU
+Guam
+GW
+Guinea-Bissau
+GY
+Guyana
+HK
+Hongkong
+HM
+Heardùv o. a McDonaldovy o.
+HN
+Honduras
+HR
+Chorvatsko
+HT
+Haiti
+HU
+Maïarsko
+ID
+Indonésie
+IE
+Irsko
+IL
+Izrael
+IM
+Ostrov Man
+IN
+Indie
+IO
+Britské indickooc.území
+IQ
+Irák
+IR
+Írán
+IS
+Island
+IT
+Itálie
+JM
+Jamajka
+JO
+Jordánsko
+JP
+Japonsko
+JT
+Johnston
+KE
+Keòa
+KG
+Kyrgyzstán
+KH
+Kambodža
+KI
+Kiribati
+KM
+Komory
+KN
+Svatý Kryštof a Nevis
+KP
+Korejská lidovì dem. republika
+KR
+Korejská republika
+KW
+Kuvajt
+KY
+Kajmanské ostrovy
+KZ
+Kazachstán
+LA
+Laos
+LB
+Libanon
+LC
+Svatá Lucie
+LI
+Lichtenštejnsko
+LK
+Srí Lanka
+LR
+Libérie
+LS
+Lesotho
+LT
+Litva
+LU
+Lucembursko
+LV
+Lotyšsko
+LY
+Libye
+MA
+Maroko
+MC
+Monako
+MD
+Moldavsko
+MG
+Madagaskar
+MH
+Marshallovy ostrovy
+MI
+Midway
+ML
+Mali
+MM
+Myanmar
+MN
+Mongolsko
+MO
+Macao
+MP
+Severní Mariany
+MQ-
+Martinik
+MR
+Mauritánie
+MS
+Montserrat
+MT
+Malta
+MU
+Mauricius
+MV
+Maledivy
+MW
+Malawi
+MX
+Mexiko
+MY
+Malajsie
+MZ
+Mosambik
+NA
+Namibie
+NC
+Nová Kaledonie
+NE
+Niger
+NF
+Norfolk
+NG
+Nigérie
+NI
+Nikaragua
+NL
+Nizozemsko
+NO
+Norsko
+NP
+Nepál
+NQ
+Zemì královny Maud
+NR
+Nauru
+NT
+Neutrální území
+NU
+Niue
+NZ
+Nový Zéland
+OM-
+Omán
+PA
+Panama
+PC
+Tichomoøské ostrovy
+PE
+Peru
+PF
+Francouzská Polynésie
+PG
+Papua-Nová Guinea
+PH
+Filipíny
+PK
+Pákistán
+PL
+Polsko
+PM
+Svatý Pierre a Miquelon
+PN
+Pitcairn
+PR
+Portoriko
+PT
+Portugalsko
+PU
+Ostrovy USA v Tichém oceánu
+PW
+Palau
+PY
+Paraguay
+PZ
+Panamské prùpl.pásmo
+QA
+Katar
+RE
+Réunion
+RO
+Rumunsko
+RU
+Rusko
+RW
+Rwanda
+SA
+Saúdská Arábie
+SB
+Šalamounovy ostrovy
+SC
+Seychely
+SD
+Súdán
+SE
+Švédsko
+SG
+Singapur
+SH
+Svatá Helena
+SI
+Slovinsko
+SJ
+Svalbard a o. Jan Mayen
+SK
+Slovensko
+SL
+Sierra Leone
+SM
+San Marino
+SN
+Senegal
+SO
+Somálsko
+SR
+Surinam
+ST
+Svatý Tomáš
+SV
+Salvador
+SY
+Sýrie
+SZ
+Svazijsko
+TC
+Turks a Caicos
+TD
+Èad
+TF
+Francouzská jižní území
+TG
+Togo
+TH
+Thajsko
+TJ
+Tádžikistán
+TK
+Tokelau
+TM
+Turkmenistán
+TN
+Tunisko
+TO
+Tonga
+TP
+Východní Timor
+TR
+Turecko
+TT
+Trinidad a Tobago
+TV
+Tuvalu
+TW
+Tchaj-wan
+TZ
+Tanzanie
+UA
+Ukrajina
+UG
+Uganda
+UM
+Menší odleh.ostrovy USA
+US
+Spojené státy americké
+UY
+Uruguay
+UZ
+Uzbekistán
+VA
+Vatikán
+VC
+Svatý Vincenc a Grenadiny
+VE
+Venezuela
+VG
+Britské Panenské ostr.
+VI
+Americké Panenské ostr.
+VN
+Vietnam
+VU
+Vanuatu
+WF
+Wallis a Futuna
+WK
+Wake
+WS
+Samoa
+XC
+Makedonie
+YD
+Demokratický Jemen
+YE
+Jemen
+YT
+Mayotte
+YU
+Jugoslávie
+ZA
+Jižní Afrika
+ZM
+Zambie
+ZR
+Zair
+ZW
+Zimbabwe
