@@ -1,0 +1,422 @@
+Actinopodidae
+Agelenidae
+Amaurobiidae
+Ammoxenidae
+Amphinecidae
+Anapidae
+Antrodiaetidae
+Anyphaenidae
+Araneidae
+Archaeidae
+Argyronetidae
+Atypidae
+Austrochilidae 
+Barychelidae 
+Caponiidae
+Cithaeronidae
+Clubionidae
+Corinnidae
+Cryptothelidae
+Ctenidae
+Ctenizidae
+Cyatholopidae
+Cybaeidae
+Cycloctenidae
+Cyrtaucheniidae 
+Deinopidae
+Desidae
+Dictynidae
+Diguetidae
+Dipluridae
+Dysderidae
+Drymusidae 
+Eresidae 
+Filistatidae 
+Gallieniellidae
+Gnaphosidae
+Gradungulidae 
+Hahniidae
+Halidae
+Hersiliidae
+Heteropoidae
+Hexathelidae
+Holarcheidae
+Homalonychiade
+Huttoniidae
+Hypochiliade 
+Idiopidae 
+Lamponidae
+Leptonetidae
+Linyphiidae
+Liocranidae
+Liphistiidae
+Lycosidae 
+Malkaridae
+Mecicobothriidae
+Mecysmaucheniidae
+Micropholcommatidae
+Microstigmatidae
+Migidae
+Mimetidae
+Miturgidae
+Mysmenidae 
+Nemesiidae
+Neolanidae
+Nesticidae
+Nicodamidae 
+Ochyroceratidae
+Oecobiidae
+Oonopiidae
+Orsolobidae
+Oxyopidae 
+Palpimanidae
+Pararchaeidae
+Paratropididae
+Periegopidae
+Philodromidae
+Pholcidae
+Phyxelididae
+Pimoidae
+Pisauridae
+Plectreuridae
+Prodidomidae
+Psechridae 
+Salticidae
+Scytodidae
+Segestriidae
+Senoculidae
+Selenopidae
+Sicariidae
+Sinotaxidae
+Sparassidae
+Stenochilidae
+Stiphidiidae
+Symphytognatiade 
+Tengellidae
+Telemidae
+Tetrablemmidae
+Tetragnathidae
+Theraphosidae
+Theridiidae
+Theridiosomatidae
+Thomisidae
+Titanoecidae
+Trechaleidae
+Trochanteridiiade 
+Uloboridae 
+Zodariidae
+Zoridae
+Zorocratidae
+Zoropsidae 
+Arthropoda 
+èlenovci
+Chelicerata 
+klepítkatci
+Arachnida 
+pavoukovci
+Araneida 
+pavouci
+Orthognatha 
+sklípkani
+Atypoidea 
+sklípkánci
+Atypidae 
+sklípkánkovití
+Atypus
+Atypus muralis
+sklípkánek pontický
+Atypus affinis 
+sklípkánek hnìdý
+Atypus piceus
+Labidognatha
+dvouplicní
+Dysderoidea 
+šestioèky
+Dysderidae
+šestioèkovití
+Dasumia
+šestioèka
+Dasumia carpathica
+Dysdera
+šestioèka
+Dysdera erythrina 
+Dysdera hungarica 
+Dysdera ninnii  
+Harpactea 
+Harpactea hombergi
+Harpactea lepida
+Harpactea rubicunda
+šestioèka ryšavá
+Segestriidae
+segestrovití
+Segestria
+Segestria bavarica
+Segestria senoculata 
+segestra šestioká 
+Oonopidae 
+vzokanovití
+Oonops
+vzokan
+Oonops domesticus
+vzokan obecný
+Scytodoidea
+lepovky
+Scytodidae 
+lepovkovití
+Scytodes
+lepovka
+Scytodes thoracia
+lepovka jižní
+Pholcoidea
+tøesavky
+Pholcidae 
+tøesavkovití
+Pholcus
+tøesavka
+Pholcus opilionoides
+tøesavka sekáèovitá
+Pholcus phalangioides
+tøesavka velká
+Eresoidea 
+stepníci
+Uloboridae 
+pakøižákovití
+Uloborus
+Uloborus walckenaerius
+Hyptiotes
+pakøižák
+Hyptiotes paradoxus 
+pakøižák smrkový
+Eresidae
+stepníkovití
+Eresus 
+stepník
+Eresus cinnaberinus
+stepník rudý
+Palpimanoidea 
+Zodariidae
+mravèíkovití
+Zodarion
+mravèík
+Zodarion germanicum
+mravèík obecný
+Zodarion rubidum
+Araneoidea
+køižáci
+Theridiidae 
+snovaèkovití
+Achaearanea
+Achaearanea lunata
+Achaearanea ohlerti
+Achaearanea riparia
+Achaearanea simulans
+Achaearanea tepidariorum
+Anelosimus
+Anelosimus aulicus
+Anelosimus vittatus
+Dipoena
+Dipoena braccata
+Dipoena coracina
+Dipoena erythropus
+Dipoena inornata
+Dipoena melanogaster
+Dipoena nigroreticulata
+Dipoena prona
+Dipoena torva
+Enoplognatha
+Enoplognatha caricis
+Enoplognatha latimana
+Enoplognatha mordax 
+Enoplognatha ovata
+Enoplognatha serratosignata
+Enoplognatha thoracica
+Euryopis
+Euryopis episinoides
+Euryopis flavomaculata
+Euryopis laeta
+Euryopis quinqueguttata
+Euryopis saukea
+Robertus
+Robertus lividus
+Robertus neglectus
+Robertus scoticus 
+Robertus truncorum
+Robertus ungulatus
+Robertus arundineti
+Theridion
+Theridion betteni
+Theridion blackwalli
+Theridion boesenbergi
+Theridion conigerum
+Theridion hemerobium 
+Theridion impressum
+Theridion melanurum
+Theridion mystaceum
+Theridion nigrovariegatum
+Theridion pictum
+Theridion pinastri
+Theridion sisyphium
+Theridion tinctum
+Theridion varians
+Steatoda
+Steatoda albomaculata
+Steatoda bipunctata
+Steatoda castanea
+Steatoda grossa
+Steatoda meridionalis
+Steatoda phalerata
+Steatoda triangulosa
+Rugathodes
+Rugathodes bellicosus
+Rugathodes instabilis
+Episinus
+Episinus angulatus
+Episinus truncatus
+Neottiura
+Neottiura bimaculata
+Neottiura suaveolens
+Crustulina
+Crustulina guttata
+Lasaeola
+Lasaeola tristis
+Paidiscura
+Paidiscura pallens
+Smitidion
+Smitidion simile
+Pholcomma
+Pholcomma gibbum
+Theonoe
+Theonoe minutissima
+Linyphiidae 
+plachetnatkovití
+Linyphia 
+plachetnatka
+Linyphia hortensis
+Linyphia triangularis
+Walckenaeria
+Walckenaeria acuminata
+Walckenaeria alticeps
+Walckenaeria antica
+Walckenaeria atrotibialis
+Walckenaeria capito
+Walckenaeria corniculans
+Walckenaeria cucullata
+Walckenaeria cuspidata
+Walckenaeria dysderoides
+Walckenaeria furcillata
+Walckenaeria kochi
+Walckenaeria mitrata
+Walckenaeria monoceros
+Walckenaeria nodosa
+Walckenaeria nudipalpis
+Walckenaeria obtusa
+Walckenaeria simplex
+Walckenaeria unicornis
+Walckenaeria vigilax
+Lepthyphantes
+Lepthyphantes alacris
+Lepthyphantes alutatius 
+Lepthyphantes angulatus
+Lepthyphantes angulipalpis 
+Lepthyphantes arciger 
+Lepthyphantes cristatus 
+Lepthyphantes crucifer 
+Lepthyphantes decolor 
+Lepthyphantes expunctus 
+Lepthyphantes flavipes 
+Lepthyphantes geniculatus 
+Lepthyphantes gregori 
+Lepthyphantes improbulus
+Lepthyphantes insignis 
+Lepthyphantes keyserlingi 
+Lepthyphantes leprosus 
+Lepthyphantes lepthyphantiformis 
+Lepthyphantes mansuetus 
+Lepthyphantes mengei 
+Lepthyphantes minutus 
+Lepthyphantes mughi 
+Lepthyphantes nanus 
+Lepthyphantes nitidus 
+Lepthyphantes nodifer 
+Lepthyphantes notabilis 
+Lepthyphantes obscurus 
+Lepthyphantes pallidus 
+Lepthyphantes pulcher 
+Lepthyphantes quadrimaculatus 
+Lepthyphantes tenebricola
+Lepthyphantes tenuis 
+Lepthyphantes tripartitus 
+Lepthyphantes zimmermanni
+Centromerus
+Centromerus aequalis 
+Centromerus arcanus 
+Centromerus capucinus 
+Centromerus cavernarum 
+Centromerus dilutus 
+Centromerus incilium 
+Centromerus leruthi 
+Centromerus levitarsis 
+Centromerus pabulator 
+Centromerus persimilis 
+Centromerus prudens 
+Centromerus sellarius 
+Centromerus semiater 
+Centromerus serratus 
+Centromerus silvicola 
+Centromerus sylvaticus 
+Centromerus unidentatus 
+Porrhomma
+Porrhomma campbelli 
+Porrhomma convexum 
+Porrhomma egeria
+Porrhomma errans 
+Porrhomma lativelum 
+Porrhomma microphthalmum 
+Porrhomma montanum 
+Porrhomma myops 
+Porrhomma oblitum
+Porrhomma omissum 
+Porrhomma pallidum 
+Porrhomma pygmaeum 
+Diplocephalus
+Diplocephalus cristatus 
+Diplocephalus dentatus 
+Diplocephalus helleri 
+Diplocephalus latifrons 
+Diplocephalus permixtus 
+Diplocephalus picinus
+Entelecara
+Entelecara acuminata 
+Entelecara congenera 
+Entelecara erythropus 
+Entelecara flavipes 
+Entelecara obscura 
+Entelecara omissa
+Meioneta
+Meioneta affinis 
+Meioneta equestris 
+Meioneta fuscipalpus 
+Meioneta innotabilis 
+Meioneta milleri 
+Meioneta mollis 
+Meioneta rurestris 
+Meioneta saxatilis 
+Meioneta simplicitarsis 
+Panamomops
+Panamomops affinis
+Panamomops fagei
+Panamomops inconspicuus
+Panamomops latifrons 
+Panamomops mengei 
+Panamomops sulcifrons 
+Bathyphantes
+Bathyphantes approximatus 
+Bathyphantes gracilis 
+Bathyphantes nigrinus 
+Bathyphantes parvulus 
+Bathyphantes setiger 
+Bathyphantes similis 
+Bathyphantes simillimus
+Bathyphantes simillimus simillimus
+Bathyphantes simillimus buchari 
+

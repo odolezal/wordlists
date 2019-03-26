@@ -1,0 +1,123 @@
+# Movie titles, authors, and characters
+#
+# From Bob Baldwin's collection from MIT
+# Augmented by Matt Bishop and Daniel Klein
+#
+2001
+2010
+airplane
+alcapone
+alien
+aliens
+android
+animal house
+animalhouse
+bakshi
+bananas
+banzai
+baron harkonnen
+baronharkonnen
+bladerunner
+blueblazer
+bluevelvet
+bonsai
+brad&janet
+bradjanet
+bradnjanet
+brand-n-janet
+buckaroo
+c3po
+channi
+cthreepo
+darthvader
+deathstar
+doon
+dreamscape
+drno
+ducksoup
+duke leto
+dukeleto
+duncan
+dune
+et
+etee
+feedme
+foulplay
+frankenfurter
+franknfurter
+ghandi
+goldfinger
+gremlins
+hal9000
+harkonnen
+hitchcock
+holy grail
+holygrail
+hopscotch
+inheritthewind
+irulian
+jaws
+kaos
+kingandi
+lastango
+lasttango
+leto
+littlehouse
+littleshop
+luke
+madmax
+maude
+maxwell
+maxwellsmart
+meatloaf
+muad-dib
+muaddib
+nimh
+obi kenobi
+obi wan kenobi
+obi-wan
+obiwan
+porky
+producers
+psycho
+r2d2
+raiders
+raidersofthelostark
+rambo
+replicant
+repoman
+riff-raff
+riffraf
+riffraff
+rifraf
+rifraff
+road warrior
+roadwarrior
+robocop
+rocky
+rocky horror
+rockyhorror
+rtwo
+rtwodtwo
+sal9000
+skywalker
+spam
+specter
+spectre
+star wars
+startrek
+starwars
+sttng
+thebirds
+thegreatescape
+thekingandi
+theproducers
+thunderball
+thunderdome
+thx1138
+tootsie
+tron
+wargames
+witnessfortheprosecution
+wizards
+wopper
